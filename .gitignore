@@ -1,0 +1,7 @@
+node_modules
+keys.js
+.DC_Store
+data/*
+
+# exception to the rule
+!data/.gitkeep

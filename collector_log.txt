@@ -1,28 +1,16 @@
-error in download at time: 1513544161264 , message: getaddrinfo ENOTFOUND feeds.citibikenyc.com feeds.citibikenyc.com:443
-error in download at time: 1513544161264 , message: getaddrinfo ENOTFOUND bikeangels-api.citibikenyc.com bikeangels-api.citibikenyc.com:443
-error in download at time: 1513544220502 , message: getaddrinfo ENOTFOUND feeds.citibikenyc.com feeds.citibikenyc.com:443
-error in download at time: 1513544220502 , message: getaddrinfo ENOTFOUND bikeangels-api.citibikenyc.com bikeangels-api.citibikenyc.com:443
-error in download at time: 1513544281656 , message: getaddrinfo ENOTFOUND feeds.citibikenyc.com feeds.citibikenyc.com:443
-error in download at time: 1513544281656 , message: getaddrinfo ENOTFOUND bikeangels-api.citibikenyc.com bikeangels-api.citibikenyc.com:443
-error in download at time: 1513544341038 , message: getaddrinfo ENOTFOUND feeds.citibikenyc.com feeds.citibikenyc.com:443
-error in download at time: 1513544341038 , message: getaddrinfo ENOTFOUND bikeangels-api.citibikenyc.com bikeangels-api.citibikenyc.com:443
-error in download at time: 1513544400257 , message: getaddrinfo ENOTFOUND feeds.citibikenyc.com feeds.citibikenyc.com:443
-error in download at time: 1513544400257 , message: getaddrinfo ENOTFOUND bikeangels-api.citibikenyc.com bikeangels-api.citibikenyc.com:443
-error in download at time: 1513544460843 , message: getaddrinfo ENOTFOUND feeds.citibikenyc.com feeds.citibikenyc.com:443
-error in download at time: 1513544460843 , message: getaddrinfo ENOTFOUND bikeangels-api.citibikenyc.com bikeangels-api.citibikenyc.com:443
-error in download at time: 1513544520534 , message: getaddrinfo ENOTFOUND feeds.citibikenyc.com feeds.citibikenyc.com:443
-error in download at time: 1513544520534 , message: getaddrinfo ENOTFOUND bikeangels-api.citibikenyc.com bikeangels-api.citibikenyc.com:443
-error in download at time: 1513544580818 , message: getaddrinfo ENOTFOUND feeds.citibikenyc.com feeds.citibikenyc.com:443
-error in download at time: 1513544580818 , message: getaddrinfo ENOTFOUND bikeangels-api.citibikenyc.com bikeangels-api.citibikenyc.com:443
-error in download at time: 1513544641143 , message: getaddrinfo ENOTFOUND feeds.citibikenyc.com feeds.citibikenyc.com:443
-error in download at time: 1513544641143 , message: getaddrinfo ENOTFOUND bikeangels-api.citibikenyc.com bikeangels-api.citibikenyc.com:443
-error in download at time: 1513544700594 , message: getaddrinfo ENOTFOUND feeds.citibikenyc.com feeds.citibikenyc.com:443
-error in download at time: 1513544700594 , message: getaddrinfo ENOTFOUND bikeangels-api.citibikenyc.com bikeangels-api.citibikenyc.com:443
-error in download at time: 1513544760680 , message: getaddrinfo ENOTFOUND feeds.citibikenyc.com feeds.citibikenyc.com:443
-error in download at time: 1513544760680 , message: getaddrinfo ENOTFOUND bikeangels-api.citibikenyc.com bikeangels-api.citibikenyc.com:443
-error in download at time: 1513544821148 , message: getaddrinfo ENOTFOUND feeds.citibikenyc.com feeds.citibikenyc.com:443
-error in download at time: 1513544821148 , message: getaddrinfo ENOTFOUND bikeangels-api.citibikenyc.com bikeangels-api.citibikenyc.com:443
-error in download at time: 1513544880665 , message: getaddrinfo ENOTFOUND feeds.citibikenyc.com feeds.citibikenyc.com:443
-error in download at time: 1513544880665 , message: getaddrinfo ENOTFOUND bikeangels-api.citibikenyc.com bikeangels-api.citibikenyc.com:443
-error in download at time: 1513544941095 , message: getaddrinfo ENOTFOUND feeds.citibikenyc.com feeds.citibikenyc.com:443
-error in download at time: 1513544941095 , message: getaddrinfo ENOTFOUND bikeangels-api.citibikenyc.com bikeangels-api.citibikenyc.com:443
+lost internet on local:
+1513544161264
+1513544220502
+1513544281656
+1513544341038
+1513544400257
+1513544460843
+1513544520534
+1513544580818
+1513544641143
+1513544700594
+1513544760680
+1513544821148
+1513544880665
+1513544941095
+==============================

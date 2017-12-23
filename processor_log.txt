@@ -1,3 +1,4 @@
+on local:
 Not valid JSON points_1513611720419_.json SyntaxError: Unexpected end of JSON input
     at JSON.parse (<anonymous>)
     at tryParseJSON (/Users/annagarcia/Desktop/projects/citibike/utils.js:5:27)
@@ -10,3 +11,4 @@ Not valid JSON points_1513611780193_.json SyntaxError: Unexpected token < in JSO
     at read (/Users/annagarcia/Desktop/projects/citibike/utils.js:22:20)
     at tryToString (fs.js:514:3)
     at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:502:12)
+=====================================================================

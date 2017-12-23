@@ -1,4 +1,5 @@
 const fs = require('fs');
+const zlib = require('zlib');
 
 function tryParseJSON(data, file) {
   try {
@@ -15,13 +16,18 @@ function tryParseJSON(data, file) {
 
 async function readFile(filePath, file) {
   return new Promise(function(resolve, reject) {
-    fs.readFile(filePath, 'utf8', function read(err, data) {
-      if (err) {
-        reject(err);
-      }
-      var result = tryParseJSON(data, file);
-      resolve(result);
-    });
+    // unzip file and parse JSON
+    var content = '';
+    fs
+      .createReadStream(filePath)
+      .pipe(zlib.createGunzip())
+      .on('data', function(data) {
+        content += data.toString();
+      })
+      .on('end', function() {
+        var result = tryParseJSON(content, file);
+        resolve(result);
+      });
   });
 }
 

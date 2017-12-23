@@ -1,9 +1,9 @@
 const fs = require('fs');
 const pgp = require('pg-promise')(/*options*/);
 const connection = require('./keys').connection;
-const utils = require('./utils');
 const db = pgp(connection);
-const dataFolder =  __dirname +'/data/';
+const utils = require('./utils');
+const dataFolder = __dirname + '/data/';
 
 function processFiles() {
   //get files

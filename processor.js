@@ -3,7 +3,7 @@ const pgp = require('pg-promise')(/*options*/);
 const connection = require('./keys').connection;
 const utils = require('./utils');
 const db = pgp(connection);
-const dataFolder = './data/';
+const dataFolder =  __dirname +'/data/';
 
 function processFiles() {
   //get files
@@ -28,7 +28,6 @@ function processFiles() {
       }
       //remove file
       fs.unlinkSync(filePath);
-      console.log('successfully processed', file);
     });
   });
 
@@ -64,6 +63,5 @@ function processFiles() {
   }
 }
 
-setInterval(function() {
-  processFiles();
-}, 5000);
+// run
+processFiles();

@@ -1,0 +1,12 @@
+Not valid JSON points_1513611720419_.json SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at tryParseJSON (/Users/annagarcia/Desktop/projects/citibike/utils.js:5:27)
+    at read (/Users/annagarcia/Desktop/projects/citibike/utils.js:22:20)
+    at tryToString (fs.js:514:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:502:12)
+Not valid JSON points_1513611780193_.json SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at tryParseJSON (/Users/annagarcia/Desktop/projects/citibike/utils.js:5:27)
+    at read (/Users/annagarcia/Desktop/projects/citibike/utils.js:22:20)
+    at tryToString (fs.js:514:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:502:12)
